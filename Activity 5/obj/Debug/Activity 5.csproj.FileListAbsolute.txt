@@ -1,0 +1,8 @@
+C:\Users\Josem\Music\01 Laboratory Activity 5 Event-Driven Programming\Activity 5\bin\Debug\Activity 5.exe.config
+C:\Users\Josem\Music\01 Laboratory Activity 5 Event-Driven Programming\Activity 5\bin\Debug\Activity 5.exe
+C:\Users\Josem\Music\01 Laboratory Activity 5 Event-Driven Programming\Activity 5\bin\Debug\Activity 5.pdb
+C:\Users\Josem\Music\01 Laboratory Activity 5 Event-Driven Programming\Activity 5\obj\Debug\Activity 5.csproj.AssemblyReference.cache
+C:\Users\Josem\Music\01 Laboratory Activity 5 Event-Driven Programming\Activity 5\obj\Debug\Activity 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josem\Music\01 Laboratory Activity 5 Event-Driven Programming\Activity 5\obj\Debug\Activity 5.csproj.CoreCompileInputs.cache
+C:\Users\Josem\Music\01 Laboratory Activity 5 Event-Driven Programming\Activity 5\obj\Debug\Activity 5.exe
+C:\Users\Josem\Music\01 Laboratory Activity 5 Event-Driven Programming\Activity 5\obj\Debug\Activity 5.pdb
